@@ -1,1 +1,1 @@
-# Spring Boot Recipe Application test
+# Spring Boot Recipe Application test CI
